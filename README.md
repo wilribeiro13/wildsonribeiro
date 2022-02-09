@@ -5,7 +5,7 @@
 
 ## Olá! 👋🏼
 
-I'm **Wildson Ribeiro**, I'm Wildson Ribeiro, a seasoned IT Analyst. I was born and raised in Belo Horizonte, Brazil. I'm currently migrating from infra area to devops and looking for an opportunity.
+I'm **Wildson Ribeiro**, a seasoned IT Analyst. I was born and raised in Belo Horizonte, Brazil. I'm currently migrating from infra area to devops and looking for an opportunity.
 
 - I have a Bachelor degree in Computer Network ([UNA](https://www.una.br/), Brazil) 🇧🇷
 - I leard about **cloud**, **devops Tools**, **monitoring** and **Python** 🐍😎
