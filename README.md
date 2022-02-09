@@ -9,7 +9,7 @@ I'm **Wildson Ribeiro**, a seasoned IT Analyst. I was born and raised in Belo Ho
 
 - I have a Bachelor degree in Computer Network ([UNA](https://www.una.br/), Brazil) 🇧🇷
 - I leard about **cloud**, **devops Tools**, **monitoring** and **Python** 🐍😎
-- My current interests are **Cloud**, **Devops**, **Monitoring**, **Docker** and **Kubernets**.
+- My current interests are **Cloud Plataforms**, **Devops**, **Monitoring**, **Docker** and **Kubernets**.
 
 <div align="center">
   <a href="https://github.com/wilribeiro13">
