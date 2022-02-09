@@ -4,7 +4,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/wilribeiro13)](https://t.me/wilribeiro13)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wilribeiro13)](https://github.com/wilribeiro13)
 
-## Olá! 👋🏼
+## Hello Everyone! 👋🏼
 
 I'm **Wildson Ribeiro**, a seasoned IT Analyst. I was born and raised in Belo Horizonte, Brazil. I'm currently migrating from infra area to devops and looking for an opportunity.
 
