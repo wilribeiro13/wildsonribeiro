@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wildson-ribeiro-a977445/)](https://www.linkedin.com/in/wildson-ribeiro-a977445/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/wilribeiro13)](https://t.me/wilribeiro13)
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ## Olá! 👋🏼
 
